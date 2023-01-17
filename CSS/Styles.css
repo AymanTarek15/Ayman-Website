@@ -1,11 +1,12 @@
 body {
    /* background-color: #E4F9F5;*/
     text-align: center;
-    margin-top: 100px;
+    /*margin-top: 100px;*/
     font-family:cursive
 }
 .top-container {
-    background-color: #EAF6F6;
+    background-color: #c6fbfb;
+    
 }
 
 .bottom-cloud {
@@ -18,6 +19,7 @@ body {
 
 .mountain {
     position: relative;
+    background-color: #EAF6F6;
    /* border-radius: 100%;*/
 }
 
@@ -39,11 +41,12 @@ body {
 }
 
 h1 {
-    color: #66BFBF;
-    font-family:cursive;
+    color: #0199ae;
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
 }
 h2 {
-    color: #66BFBF;
+    color: #0199ae;
 }
 
 #Web {
@@ -124,3 +127,4 @@ hr {
     margin: 0 auto 0 auto;
     te
   }
+  
