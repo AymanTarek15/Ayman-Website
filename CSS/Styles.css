@@ -60,7 +60,7 @@ h3 {
     float: left;
 }
 
-#Hack {
+#React {
     margin-top: 25px;
     position: relative;
     left: 30px;
@@ -129,6 +129,17 @@ hr {
   .contact-me {
     width: 25%;
     margin: 0 auto 0 auto;
-    te
+    
+  }
+
+  .projects{
+    /* text-align: left; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  li{
+    list-style-type: disc !important;
+    text-align: left;
   }
   
